@@ -1,0 +1,19 @@
+@media (max-width: 700px) {
+  .container__small-card {
+    width: 100%;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    display: flex;
+    flex-direction: column; /* Mudar a direção para empilhar verticalmente */
+    align-items: center; /* Centralizar horizontalmente */
+    text-align: center; /* Centralizar o texto horizontalmente */
+  }
+
+  .small-card__photo > img {
+    width: 100%;
+    min-width: initial;
+    margin-right: 0;
+    margin-bottom: 10px;
+  }
+}

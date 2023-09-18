@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px) {
+  .container__menu-bar > ul {
+    flex-direction: column; /* Altera a direção para coluna */
+  }
+
+  .container__menu-bar > ul > li {
+    margin-right: 0; /* Remove a margem direita */
+    margin-bottom: 10px; /* Adiciona margem inferior para espaçamento */
+  }
+}
