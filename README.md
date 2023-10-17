@@ -14,3 +14,4 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 1. Clone este repositório para o seu sistema local:
    ```sh
    git clone https://github.com/seu-usuario/blog-angular-estudos.git
+2. Abra o projeto em sua IDE de preferência, como VS Code.
