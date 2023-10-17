@@ -18,4 +18,6 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 3. Abra um terminal dentro do diretório do projeto, e digite:
    ```sh
    git clone https://github.com/seu-usuario/blog-angular-estudos.git
-4. Abra o http://localhost:3000 no seu navegador.
+4. Abra seu navegador, e sem seguida coloque a url:
+    ```sh
+   localhost:3000
