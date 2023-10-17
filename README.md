@@ -16,5 +16,6 @@ Certifique-se de ter o seguinte instalado em sua máquina:
    git clone https://github.com/seu-usuario/blog-angular-estudos.git
 2. Abra o projeto em sua IDE de preferência, como VS Code.
 3. Abra um terminal dentro do diretório do projeto, e digite:
-```sh
-  ng serve
+   ```sh
+   git clone https://github.com/seu-usuario/blog-angular-estudos.git
+4. Abra o http://localhost:3000 no seu navegador.
