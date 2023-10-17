@@ -8,7 +8,8 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 
 - Node.js: [Download](https://nodejs.org/)
 - Angular CLI: Você pode instalá-lo globalmente com o comando: `npm install -g @angular/cli`
-
+- Uma IDE (Ambiente de Desenvolvimento Integrado) ou um editor de código: Você pode escolher entre várias opções populares, como:
+ 
 ## Instalação
 
 1. Clone este repositório para o seu sistema local:
