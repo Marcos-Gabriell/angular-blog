@@ -1,6 +1,6 @@
 # Blog em Angular - Projeto de Estudos
 
-Este é um projeto de blog desenvolvido em Angular, criado com o objetivo de aprimorar suas habilidades e conhecimentos na construção de aplicações web.
+Este é um projeto de blog desenvolvido em Angular, criado com o objetivo de aprimorar suas habilidades e conhecimentos na construção de aplicações web com o Angular.
 
 ## Pré-requisitos
 
