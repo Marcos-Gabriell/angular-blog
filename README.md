@@ -2,6 +2,17 @@
 
 Este é um projeto de blog desenvolvido em Angular, criado com o objetivo de aprimorar suas habilidades e conhecimentos na construção de aplicações web.
 
+
+## Linguagens e ferramentas  usadas
+<div >
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="springSecurty" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+    <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</div><br/>
+
+
+
 ## Pré-requisitos
 
 Certifique-se de ter o seguinte instalado em sua máquina:
