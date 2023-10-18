@@ -10,7 +10,7 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 - Angular CLI: Você pode instalá-lo globalmente com o comando: `npm install -g @angular/cli`
 - Uma IDE (Ambiente de Desenvolvimento Integrado) ou um editor de código: Você pode escolher entre várias opções populares, como:
   - [Visual Studio Code](https://code.visualstudio.com/download): Um editor de código leve e altamente personalizável, com extensões para JavaScript.
-  - 
+    
 ## Instalação
 
 1. Clone este repositório para o seu sistema local:
